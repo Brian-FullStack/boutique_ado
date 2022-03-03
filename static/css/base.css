@@ -61,9 +61,12 @@ body {
 }
 
 .border-black {
-    border: 1px solid black !important;
+    border: 1px solid #000 !important;
 }
 
+.bg-black {
+    background-color: #000 !important;
+}
 
 /* -------------------------------- Media Queries */
 
